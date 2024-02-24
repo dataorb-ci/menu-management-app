@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "menu-management",
-  "name": "Menu Management",
+  "short_name": "menu-manager",
+  "name": "Menu Manager",
   "description": "",
   "version": "28.2.8",
   "core_app": true,
